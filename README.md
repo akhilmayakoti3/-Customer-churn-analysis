@@ -43,6 +43,7 @@ Open in Power BI Desktop
 Use filters to explore insights
 Interact with visuals for detailed analysis
 📷 Dashboard Preview
+![Customer_churn_dashboard](https://github.com/user-attachments/assets/b1c71bb2-3db0-40d1-8a61-ea30116f488c)
 
 👤 Author
 Akhil
